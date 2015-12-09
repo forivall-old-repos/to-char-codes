@@ -1,0 +1,12 @@
+{
+  "name": "to-char-codes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["charCodeAt", "string"],
+  "author": "Jordan J Klassen <forivall@gmail.com> (http://forivall.com/)",
+  "license": "ISC",
+  "description": "A really simple function that converts a string into its consituent char codes"
+}
